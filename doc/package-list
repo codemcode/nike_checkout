@@ -1,0 +1,6 @@
+java.com.checkout.dao
+java.com.checkout.exception
+java.com.checkout.schema
+java.com.checkout.services
+javatests.com.checkout.dao
+javatests.com.checkout.services
